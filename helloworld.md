@@ -8,9 +8,8 @@ Bacon ipsum dolor amet tail jerky porchetta shank filet mignon boudin drumstick,
 
 1. One
 2. Two
-3. Three
 
-![](images/johannes-hohls-576796-unsplash.jpg)
+![Image alt text](images/johannes-hohls-576796-unsplash.jpg)
 
 Pancetta drumstick beef ribs alcatra fatback tail buffalo leberkas. Drumstick bacon ham hock alcatra doner pastrami, picanha meatball fatback andouille tenderloin ribeye beef ribs cupim. Tail short loin kevin sausage tenderloin turkey pork. Cow chuck filet mignon meatloaf, pastrami ham pork chop. Drumstick chuck tenderloin alcatra cupim capicola boudin venison shankle. Leberkas venison bresaola biltong salami. Drumstick bresaola kevin leberkas meatball, ball tip pork chop cupim shank jowl beef brisket burgdoggen tongue.
 
