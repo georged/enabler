@@ -6,8 +6,6 @@ Bacon ipsum dolor amet tail jerky porchetta shank filet mignon boudin drumstick,
 
 Prosciutto salami tenderloin shank filet mignon brisket, tail andouille pastrami corned beef jerky cupim picanha drumstick. Spare ribs burgdoggen cupim leberkas. Short loin kevin doner chuck frankfurter buffalo chicken cow salami ground round tri-tip.
 
-> [!Note]
->
 > A user can also inherit a content access level if it is assigned to a Web Role or Parent Contact. That makes management of content access easier in larger organizations.
 
 ### HTML
