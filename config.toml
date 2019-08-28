@@ -22,6 +22,7 @@ PygmentsUseClasses = true # Use CSS classes to format highlighted code
 PygmentsCodefencesGuessSyntax = true
 PygmentsOptions = "linenos=table"
 
+enableGitInfo = true
 
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "en"           # Default language to use

@@ -1,9 +1,9 @@
 ---
 title: "The Enabler: Introduction"
-date: 2018-01-01T16:01:23+08:00
-lastmod: 2018-03-07T16:01:23+08:00
+date: 2019-08-28T22:44:36+10:00
+# lastmod: 2018-03-07T16:01:23+08:00
 draft: false
-tags: ["preview", "shortcodes", "tag-6"]
+tags: ["random"]
 categories: ["stargazing"]
 author: "George"
 
@@ -15,9 +15,9 @@ weight: 1
 # toc: false
 
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
-# reward: false
-mathjax: true
+# contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
+# reward: true
+# mathjax: true
 
 ---
 
