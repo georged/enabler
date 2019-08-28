@@ -28,6 +28,9 @@ PygmentsOptions = "linenos=table"
 #[languages.en]
 #  languageCode = "en"
 
+[services.rss]
+limit = 20
+
 [author]                  # essential                     # 必需
   name = "George"
 
