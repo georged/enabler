@@ -8,12 +8,12 @@ enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
 
-hasCJKLanguage = false     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
-paginate = 10              # Number of articles displayed on the homepage  # 首页每页显示的文章数
-rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
-disqusShortname = "georgedude"      # disqus_shortname
+hasCJKLanguage = false     # has chinese/japanese/korean ? 
+paginate = 10              # Number of articles displayed on the homepage 
+rssLimit = 20             # Limit Entry Count to Rss file
+disqusShortname = "georged"      # disqus_shortname
 googleAnalytics = "UA-37191902-3"      # UA-XXXXXXXX-X
-copyright = ""            # default: author.name
+copyright = "George Doubinski"            # default: author.name
 
 # Highlight options.
 # See https://gohugo.io/content-management/syntax-highlighting/
@@ -79,7 +79,7 @@ defaultContentLanguage = "en"           # Default language to use
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
   toc = true                                                                           
   photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            
-  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International</a>'
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
