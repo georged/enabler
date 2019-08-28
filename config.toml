@@ -2,8 +2,8 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "http://localhost:1313/"
-title = "Jane - A super concise theme for Hugo"
+baseURL = "https://doubin.ski/"
+title = "George \"The Enabler\" Doubinski"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -11,9 +11,9 @@ theme = "jane"
 hasCJKLanguage = false     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 10              # Number of articles displayed on the homepage  # 首页每页显示的文章数
 rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
-disqusShortname = ""      # disqus_shortname
-googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
+disqusShortname = "georgedude"      # disqus_shortname
+googleAnalytics = "UA-37191902-3"      # UA-XXXXXXXX-X
+copyright = ""            # default: author.name
 
 # Highlight options.
 # See https://gohugo.io/content-management/syntax-highlighting/
@@ -24,17 +24,14 @@ PygmentsOptions = "linenos=table"
 
 
 # language support # en / zh-cn / other... translations present in i18n/
-#defaultContentLanguage = "en"           # Default language to use
-#[languages.en]
-#  languageCode = "en"
+defaultContentLanguage = "en"           # Default language to use
+[languages.en]
+  languageCode = "en"
 
-[services.rss]
-limit = 20
-
-[author]                  # essential                     # 必需
+[author]                  # essential
   name = "George"
 
-[sitemap]                 # essential                     # 必需
+[sitemap]                 # essential
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
@@ -66,21 +63,21 @@ limit = 20
 
 
 [params]
-  since = "2017"            # Site creation time          # 站点建立时间
+  since = "2019"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "The Enabler"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme","jane"]
-  description = "Hugo theme jane example site."
+  keywords = ["George", "Doubinski","Power Platform", "MVP", "Microsoft", "Dynamics 365"]
+  description = "I'm George \"The Enabler\" Doubinski. Microsoft Business Applications MVP. Architect. Coder. Author. Blogger. Speaker. Trainer. Specialist in all things difficult for Microsoft Power Platform and Dynamics 365."
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2006-01-02"
+  dateFormatToUse = "02 Jan 2006"
 
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
-  toc = true                                                                            # 是否开启目录
-  photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
+  toc = true                                                                           
+  photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
   # Link custom CSS and JS assets
@@ -89,8 +86,8 @@ limit = 20
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:your@email.com"
-    b-twitter = "http://localhost:1313"
-    c-facebook = "http://localhost:1313"
-    d-linkedin = "http://localhost:1313"
-    e-github = "http://localhost:1313"
+    a-email = "george@doubin.ski"
+    b-twitter = "https://twitter.com/georgedude/"
+    c-facebook = "https://facebook.com/george.doubinski/"
+    d-linkedin = "https://www.linkedin.com/in/georgedoubinski/"
+    e-github = "https://github.com/georged/"
