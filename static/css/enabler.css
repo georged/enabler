@@ -13,3 +13,14 @@ img[src$='#floatright']
 em {
   margin-right: 2pt;
 }
+
+#crmtipRouletteButton {
+  display: inline-block;
+  font-size: 0.75em;
+  color: #fff;
+  background-color: #d9534f;
+  border: 1px solid #d43f3a;
+  border-radius: 6px;
+  margin: 10px 0px;
+  padding: 0.35em 0.8em;
+}
