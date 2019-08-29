@@ -105,9 +105,9 @@ Microsoft lifted the game and, by the time [CRM 2013](https://en.wikipedia.org/w
 
 I surely didn't want to repeat my lonely days. On one [potentially] sunny [perhaps] afternoon I was soul-searching for something new and exciting to do. I believe I was eating fish'n'chips and poking the keyboard with my greasy finger when I came across https://office365tipoftheday.com/. What a great idea! 
 
-By that time I knew that doing something on a regular basis is a huge if not impossible undertaking.
+By that time I knew that doing something on a regular basis is a huge if not impossible undertaking. I decided to do some crowdsourcing.
 
-> Let's do CRM tips every freaking day! As a crowd!
+> Let's do CRM tips every day! As a crowd!
 
 That's what I told my fellow MVPs. What I didn't realise (nor, to my defence, did anyone else) is that the Office folks did a tip of *a* day. Like any day. Like once a month. Lucky for me, [Joel Lindstrom](https://twitter.com/joellindstrom) and [Jerry Weinstock](https://twitter.com/crminnovation) took the bait. We figured that if every one of us did on average 1&nbsp;2/3 tips per week, we are all set. 
 
@@ -121,7 +121,43 @@ I have no idea how did we manage to survive first few months but once we ticked 
 
 And the rest is history. 
 
+### Daily grind
+
+If you do or planning to do something on a regular basis make sure you understand the efforts required. We do encourage and accept guest contributions (just email jar@crmtipoftheday.com) and I frequently hear people suggesting that by now we must be getting a lot of tips so that we don't have to do much work ourselves. 
+
+Our audience is very familiar with this assumption, I wrote about it as a developer/architect in [Tip #721: Tale of a small change](https://crmtipoftheday.com/721/tale-of-a-small-change/), Joel chimed from administrator/customiser perspective in [Tip #1073: The story of the small change](https://crmtipoftheday.com/1073/the-story-of-the-small-change/)
+
+This is what happens when we receive a tip:
+
+* Read and understand. People can be very cryptic.
+* Decide if it's a tip at all. It won't be accepted if it's just a rehash of documentation or obvious statement. 
+* If the submission has a pointer to an article elsewhere we need to go and read what is it all about. As a rule of thumb we do not cross-post tips already published elsewhere but there are some rare exceptions. If the topic is really good but too complicated then we might let the author do the explanation on their blog/media and post readers digest as a tip. But readers digests do not write themselves.
+* Validate the legitimacy. Often that requires asking the others who know this particular subject.
+* If it's an intricate tip then we must be able to reproduce it. That actually means trying to do step by step what author is suggesting. Sometimes it requires creating a baseline by customising your instance (like adding suggested fields, etc)
+* The other purpose of the "replay" is to capture screenshots. We do occasionally get screenshots from the author but they need to be extracted, resized, cleaned up, uploaded.
+* Some tipsters are better writers than others. More often than not the tip needs some scrubbing.
+* Clean up, format, check spelling, add screenshots
+* Come up with a good title, tags, and categories
+* Locate tipster twitter or linkedin profile, add a reference
+* Think of a good cover image, go find a suitable image in public domain (our preferences are https://unsplash.com and https://pexels.com). Download the image, crop and resize, upload, think of a good title, insert attribution into the tip.
+* Add tip to the queue, schedule it.
+* That was easy, wasn't it?
+
+Don't get me wrong. As tedious as publishing might be, coming up with the idea in the first place is the hardest part, the rest is straightforward. 
+
+As you can tell I look after the tips. That's the hardest. Joel takes care of CRM Audio. But looking after and publishing 11 podcasts is the easiest job in the world. How difficult can it be? Just talk, record, then publish. Right?
+
 ### Keep going?
+
+Once we tipped over 600-700 we knew we just **have** to keep going until 1,000. By then tipping has become a part of the daily routine, we just keep running, I suppose. We do allow ourselves a bit of a slack these days - we don't religiously follow "tip every business day of the week except public holidays" mantra. Few years I would literally go around begging for a tip to maintain that daily schedule. These days? No tip of Monday? Meh. 
+
+Whilst technically we could just stop publishing, pulling out of CRM Audio is next to impossible with dozen or so other people involved. 
+
+But then there is a rewarding part.
+
+When we publish a guest tip, it comes from the user Tîpp Jäår who happened to have a username **mom**. Lo and behold, according to the email we received couple years ago, our blog made it into the Top 25 Moms blogs in the world.
+
+But then there is this.
 
 > Dear CRM audio 
 >
@@ -129,14 +165,20 @@ And the rest is history.
 >
 > Belgium and Holland might not be that big, but the traffic is the worst. So I spend a lot of time sitting in my car, ideal for listening to podcasts. Keep up the good work, you guys are the best, and again, thank you so much!
 
+This is as good as it gets. Thank *you*. 
+
+If this or strangers stopping at a conference to say hello and say they read or listen, does not motivate you, then working with the community perhaps is not your thing, after all.
+
 {{% notice note "Fun fact" %}}
 Since we added <button id="crmtipRouletteButton" title="Tip roulette: press it to get an absolutely random tip" style="margin-top:0px;">Get a random tip</button> button to the site, people on average started spending **23%** more time on the site. [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) is another key!{{% /notice %}}
 
-## Future
+### Identity
 
-The one thing that seems to be lost in cohort effort is the individual identity. We didn't know and we didn't care or didn't think about it much. 
+The one thing that seems to be lost in this cohort effort is the individual identity. When we started we didn't know and we didn't care or didn't think about it much. To a certain extent I wanted to disassociate myself from the site itself. Perhaps, I was hoping to replicate Wiki success where socialistic notion of the the group participation and community goodness was somewhat overriding individual identities. 
 
-We did chat about it on [CRM MVP Podcast](http://crmmvppodcast.com/episode-55-building-your-personal-brand-like-an-mvp)
+Tip of the day and audio are much more personalised and intricate affairs. In the hindsight, we should've taken care of and promoted our identities better, especially on tip of the day.
+
+We did chat about the importance of individual identities on [CRM MVP Podcast](http://crmmvppodcast.com/episode-55-building-your-personal-brand-like-an-mvp). That's ironic considering that a lot of my work is done under the name of Tîpp Jäår. But I hope to change some of that with the blog you're reading right now.
 
 ## Lessons learned
 
@@ -161,5 +203,7 @@ It's not a mountain peak it's a journey
 * Be yourself. Keep your identity.
 * Use your skills
 * Try something new and exciting. 
+* Do not overcommit
+* Crowd sourcing: like any team: ensure that you gel, and have complimentary points of view or skills. The team of defenders or forwards only never going to win any games whatever your ball sport of choice is happen to be
 
 [^1]: [Neil Benson](https://twitter.com/customery), [Joel Lindstrom](https://twitter.com/joellindstrom), [Matt F Whittemann](https://twitter.com/mattnc), [Julie Yack](https://twitter.com/coloradojules) 
