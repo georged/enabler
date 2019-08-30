@@ -125,7 +125,7 @@ And the rest is history.
 
 If you do or planning to do something on a regular basis make sure you understand the efforts required. We do encourage and accept guest contributions (just email jar@crmtipoftheday.com) and I frequently hear people suggesting that by now we must be getting a lot of tips so that we don't have to do much work ourselves. 
 
-Our audience is very familiar with this assumption, I wrote about it as a developer/architect in [Tip #721: Tale of a small change](https://crmtipoftheday.com/721/tale-of-a-small-change/), Joel chimed from administrator/customiser perspective in [Tip #1073: The story of the small change](https://crmtipoftheday.com/1073/the-story-of-the-small-change/)
+Our audience is very familiar with this assumption, I wrote about it as a developer/architect in [Tip #721: Tale of a small change](https://crmtipoftheday.com/721/tale-of-a-small-change/), Joel chimed from administrator/customiser perspective in [Tip #1073: The story of the small change](https://crmtipoftheday.com/1073/the-story-of-the-small-change/).
 
 This is what happens when we receive a tip:
 
@@ -149,15 +149,15 @@ As you can tell I look after the tips. That's the hardest. Joel takes care of CR
 
 ### Keep going?
 
-Once we tipped over 600-700 we knew we just **have** to keep going until 1,000. By then tipping has become a part of the daily routine, we just keep running, I suppose. We do allow ourselves a bit of a slack these days - we don't religiously follow "tip every business day of the week except public holidays" mantra. Few years I would literally go around begging for a tip to maintain that daily schedule. These days? No tip of Monday? Meh. 
+We celebrated tips 100, 128, 256. Once we tipped over about 600-700 we knew we have no option but keep going until 1,000. Now, in its sixth year, tipping has become a part of the daily/weekly routine, we just keep running, I suppose. We do allow ourselves a bit of a slack these days - we don't religiously follow "tip every business day of the week except public holidays" mantra. Few years I would literally go around begging for a tip to maintain that daily schedule. These days? No tip of Monday? Meh. 
 
-Whilst technically we could just stop publishing, pulling out of CRM Audio is next to impossible with dozen or so other people involved. 
+Whilst technically we could just stop publishing, pulling out of CRM Audio is next to impossible with dozen or so other people involved. Joel is truly stuck.
 
-But then there is a rewarding part.
+There is a rewarding part as well.
 
 When we publish a guest tip, it comes from the user Tîpp Jäår who happened to have a username **mom**. Lo and behold, according to the email we received couple years ago, our blog made it into the Top 25 Moms blogs in the world.
 
-But then there is this.
+So there are moms blogs and then there is this.
 
 > Dear CRM audio 
 >
@@ -165,45 +165,55 @@ But then there is this.
 >
 > Belgium and Holland might not be that big, but the traffic is the worst. So I spend a lot of time sitting in my car, ideal for listening to podcasts. Keep up the good work, you guys are the best, and again, thank you so much!
 
-This is as good as it gets. Thank *you*. 
+As good as it gets. Thank *you*. 
 
-If this or strangers stopping at a conference to say hello and say they read or listen, does not motivate you, then working with the community perhaps is not your thing, after all.
+If this, or strangers stopping at a conference to say hello and say they read or listen, does not motivate you, then working with the community perhaps is not your thing, after all.
 
 {{% notice note "Fun fact" %}}
 Since we added <button id="crmtipRouletteButton" title="Tip roulette: press it to get an absolutely random tip" style="margin-top:0px;">Get a random tip</button> button to the site, people on average started spending **23%** more time on the site. [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) is another key!{{% /notice %}}
 
 ### Identity
 
-The one thing that seems to be lost in this cohort effort is the individual identity. When we started we didn't know and we didn't care or didn't think about it much. To a certain extent I wanted to disassociate myself from the site itself. Perhaps, I was hoping to replicate Wiki success where socialistic notion of the the group participation and community goodness was somewhat overriding individual identities. 
+The one thing that seems to be lost in this cohort effort is the individual identity. When we started we didn't know better, and we didn't care or didn't think about it much. To a certain extent I wanted to disassociate myself from the site. Perhaps, I was hoping to replicate Wiki success where socialistic notion of the the group participation and community goodness was somewhat trumping individual identities. 
 
-Tip of the day and audio are much more personalised and intricate affairs. In the hindsight, we should've taken care of and promoted our identities better, especially on tip of the day.
+Tip of the day and audio are much more personalised and intricate affairs. In the hindsight, we should've taken care of our individual identities better, especially on tip of the day.
 
 We did chat about the importance of individual identities on [CRM MVP Podcast](http://crmmvppodcast.com/episode-55-building-your-personal-brand-like-an-mvp). That's ironic considering that a lot of my work is done under the name of Tîpp Jäår. But I hope to change some of that with the blog you're reading right now.
 
-## Lessons learned
-
-* Decide on your channels from day one. Go where your audience is. Twitter, Instagram, Telegram, local Walmart, whatever.
-* If you're blogging try to stay away from syndication. It is very tempting to say `yes` to the requests, especially when they are coming from the community site moderator at Microsoft. If your content is valuable, *they* will get the traffic, not you. Yes, there is `<!-- more -->` trick but it could be seen by some as clickbait.
-* Be consistent. 
-* Commit 
-* Invest into your undertaking. If it's a blog, get a domain name, iknoweverythingaboutcrm.blogspot.com ain't that exciting. Get SSL certificate, get some decent theme, perhaps spend $5 on fiverr.com and get yourself a logo.
-* Spend on social
-
-## The new beginning
-
 ## Advice
 
-I don't like  
+Microsoft MVP program is great. For a lot of MVPs, myself included, that became our second family, the professional one. The program has been getting a lot of publicity and people want to "join in" or, rather "how do I become an MVP". There are blog posts and videos on the subject like "top 13 tricks to becoming a Microsoft MVP", "the bulletproof path to MVPdom", "milking MVP status of your employees", and many others. 
+
+I'm not a big fan of those, to be honest. If you are a professional working with Microsoft products, you should be well aware of the MVP program and what does it mean. While the program fully deserves the attention, the DYI instructions most certainly don't. 
 
 > MVP status should be an *award* not an *achievement*. It's a *milestone* not a *finish line*.
 
-It's not a mountain peak it's a journey
+It's not conquering a mountain peak, it's a journey. Let me put it the other way. Would you continue doing what you're doing if MVP program didn't exist or, if you are already an MVP when your MVP status is taken away? If the answer is `no` then perhaps you are in the program for all the wrong reasons.
 
+There are many channels available to express yourself. Podcasts, vlogs, training videos, public speaking, wiki, and many others. The predominant one is, of course, writing. However if you want people to listen and you want to build the audience, you have to deliver. Time after time. Just because you have a great idea and would like to share it with the world does not mean starting a blog. There is a saying coined by a famous Russian writer and satirist Mikhail Zhvanetsky (Михаи́л Жване́цкий)[^2] (translation is mine)
+
+> Writing is like peeing - do it when you can no longer hold it in
+>
+> (ПисАть как и пИсать нужно тогда, когда терпеть уже невозможно!)
+
+Some random thoughts that may or may not help you get started
+
+* Decide on your channels. Go where your audience is. Twitter, Instagram, Telegram, local Walmart, whatever.
+* Decide on the frequency. Do not overcommit (as we most certainly did for tip of the day and videos). If you're planning a vlog, why don't you start with a video every two weeks. You can always release out of band. Audience is less forgiving about missed appearances.
+* Learn some basics about social channels and SEO. Whilst content is most certainly king, there are little does and don'ts you need to follow to promote your creation.
+* If you're blogging try to stay away from syndication. It is very tempting to say `yes` to the requests, especially when they are coming from a community site moderator at Microsoft. If your content is valuable, *they* will get the traffic, not you. Yes, there is `<!-- more -->` trick but it could be seen by some as a clickbait.
+* Be consistent. 
+* Invest into your undertaking. If it's a blog, get a domain name, iknoweverythingaboutcrm.blogspot.com ain't that exciting. Get SSL certificate, get some decent theme, perhaps spend $5 on fiverr.com and get yourself a logo.
 * Do what you do. Regardless.
-* Be yourself. Keep your identity.
-* Use your skills
+
+* Be yourself. Keep your identity. 
+* Working as a team. Ensure that you gel, and have complimentary points of view or skills. The team of defenders or forwards only never going to win any games whatever your ball sport of choice is happen to be. One of the most entertaining 
+* Use your life skills. Can you draw? Why don't you try illustrating a blog article?
 * Try something new and exciting. 
-* Do not overcommit
-* Crowd sourcing: like any team: ensure that you gel, and have complimentary points of view or skills. The team of defenders or forwards only never going to win any games whatever your ball sport of choice is happen to be
+
+## The new adventure
+
+As for me, this blog is a new start beginning
 
 [^1]: [Neil Benson](https://twitter.com/customery), [Joel Lindstrom](https://twitter.com/joellindstrom), [Matt F Whittemann](https://twitter.com/mattnc), [Julie Yack](https://twitter.com/coloradojules) 
+[^2]: https://en.wikipedia.org/wiki/Mikhail_Zhvanetsky 

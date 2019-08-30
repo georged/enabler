@@ -21,7 +21,17 @@ The closest "real" superhero would be [Domino](https://en.wikipedia.org/wiki/Dom
 
 The Enabler is a superhero except he does not have any skills. Instead, in his presence, other people who think of themselves as ordinary, acquire super powers and become capable of achieving the greater things.
 
-In the world of business applications, I don't necessarily create or implement the solution. Instead, I empower others with the knowledge and ideas so that their super skills come to life. And I don't believe for a second that anyone who chooses the [Power Platform](https://powerplatform.microsoft.com/), cannot be a superhero.
+To paraphrase George Bernard Show's quote[^1]
+
+> He who can, does. 
+>
+> He who cannot, teaches
+>
+> He who cannot teach, manages
+>
+> He who cannot manage, enables
+
+In the world of business applications, I don't necessarily create or implement the solutions. Instead, I empower others with the knowledge and ideas so that their super skills come to life. And I don't believe for a second that anyone who chooses the [Power Platform](https://powerplatform.microsoft.com/), cannot be a superhero.
 
 ## This site
 
@@ -37,3 +47,4 @@ It makes use of a variety of open source projects including:
 
 Learn more (and contribute) on [GitHub](https://github.com/gohugoio).
 
+[^1]:He who can, does; he who cannot, teaches. https://www.goodreads.com/quotes/41390-he-who-can-does-he-who-cannot-teaches
