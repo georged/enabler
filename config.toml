@@ -30,7 +30,7 @@ defaultContentLanguage = "en"           # Default language to use
   languageCode = "en"
 
 [author]                  # essential
-  name = "George"
+  name = "George Doubinski"
 
 [sitemap]                 # essential
   changefreq = "weekly"
@@ -68,8 +68,9 @@ defaultContentLanguage = "en"           # Default language to use
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
-  # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "The Enabler"        # default: the title value    # 默认值: 上面设置的title值
+  # site info (optional) 
+  title = "The Enabler"                               
+  logoTitle = "The Enabler"        # default: the title value
   keywords = ["George", "Doubinski","Power Platform", "MVP", "Microsoft", "Dynamics 365"]
   description = "I'm George \"The Enabler\" Doubinski. Microsoft Business Applications MVP. Architect. Coder. Author. Blogger. Speaker. Trainer. Specialist in all things difficult for Microsoft Power Platform and Dynamics 365."
 

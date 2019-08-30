@@ -4,7 +4,6 @@ date: 2019-08-28T22:44:36+10:00
 draft: false
 tags: ["random"]
 categories: ["stargazing"]
-author: "George"
 
 weight: 1
 
