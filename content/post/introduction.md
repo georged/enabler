@@ -125,7 +125,7 @@ And the rest is history.
 
 ### Daily grind
 
-If you do or planning to do something on a regular basis make sure you understand the efforts required. We do encourage and accept guest contributions (just email jar@crmtipoftheday.com) and I frequently hear people suggesting that by now we must be getting a lot of tips so that we don't have to do much work ourselves. 
+If you do or planning to do something on a regular basis make sure you understand the efforts required. We do encourage and accept guest contributions (just email [jar@crmtipoftheday.com](mailto:jar@crmtipoftheday.com)) and I frequently hear people suggesting that by now we must be getting a lot of tips so that we don't have to do much work ourselves. 
 
 Our audience is very familiar with this assumption, I wrote about it as a developer/architect in [Tip #721: Tale of a small change](https://crmtipoftheday.com/721/tale-of-a-small-change/), Joel chimed from administrator/customiser perspective in [Tip #1073: The story of the small change](https://crmtipoftheday.com/1073/the-story-of-the-small-change/).
 
@@ -150,7 +150,7 @@ Don't get me wrong. As tedious as publishing might be, coming up with the idea i
 
 As you can tell, I look after the tips. That's the hardest. Joel takes care of CRM Audio. But looking after and publishing 11 podcasts is the easiest job in the world. How difficult can it be? Just talk, record, then publish. Right?
 
-### Keep going?
+### Motivation
 
 We celebrated tips 100, 128, 256. Once we tipped over about 600-700 we knew we have no option but keep going until 1,000. Now, in its sixth year, tipping has become a part of the daily/weekly routine, we just keep running, I suppose. We do allow ourselves a bit of a slack these days - we don't religiously follow "tip every business day of the week except public holidays" mantra. Few years I would literally go around begging for a tip to maintain that daily schedule. These days? No tip of Monday? Meh. 
 
@@ -183,6 +183,14 @@ Tip of the day and audio are much more personalised and intricate affairs. In th
 
 We did chat about the importance of individual identities on [CRM MVP Podcast](http://crmmvppodcast.com/episode-55-building-your-personal-brand-like-an-mvp) (I have no idea why we didn't talk about it on our own podcast, probably because Joel didn't offer me a drink). The irony of me blabbing about the identity importance is not lost on me, considering that a lot of my work is done under the name of Tîpp Jäår. But I hope to change some of that with the blog you're reading right now.
 
+### People who made it happen
+
+We've had people coming and going. We've received a lot of help and encouragement from other MVPs and from the broader community. Thank you all!
+
+But I don't think any of our creations would see the light of the day without these individuals.
+
+
+
 ## Advice
 
 ### On MVP program
@@ -193,32 +201,34 @@ I'm not a big fan of those, to be honest. If you are a professional working with
 
 > MVP status should be an *award* not an *achievement*. It's a *milestone* not a *finish line*.
 
-It's not conquering a mountain peak, it's a journey. Let me put it the other way. Would you continue doing what you're doing if MVP program didn't exist? If you are already an MVP, what if your MVP status was taken away? If the answer is `no` then perhaps you are in the program for all the wrong reasons.
+It's not conquering a mountain peak, it's a journey. Let me put it the other way. Would you continue doing what you're doing if MVP program didn't exist? If you are already an MVP, what if your MVP status was taken away? If the answer is `no` then perhaps you are or trying to get in the program for all the wrong reasons.
 
 ### On writing
 
-There are many channels available to express yourself. Podcasts, vlogs, training videos, public speaking, wiki, and many others. The predominant one is, of course, writing. However if you want people to listen and you want to build the audience, you have to deliver. Time after time. Just because you have one or two great ideas and would like to share them with the world does not mean starting a blog. There is a saying coined by a famous Russian writer and satirist Mikhail Zhvanetsky (Михаи́л Жване́цкий)[^2] (translation is mine)
+There are many channels available to express yourself. Podcasts, vlogs, training videos, public speaking, wiki, and many others. The predominant one is, of course, writing. However if you want people to listen and you want to build the audience, you have to deliver. Time after time. Just because you have one or two great ideas and would like to share them with the world does not mean starting a blog. There is a saying coined by a famous Russian writer and satirist Mikhail Zhvanetsky (Михаи́л Жване́цкий)[^2]
 
 > Writing is like peeing - do it when you can no longer hold it in
 >
 > (ПисАть как и пИсать нужно тогда, когда терпеть уже невозможно!)
 
+If your writing is sporadic, consider publishing elsewhere instead of your own site/blog. Community sites always welcome guest contributions. So do we.
+
 ### On other things
 
 Some random thoughts that may or may not help you get started.
 
-* Decide on your channels. Go where your audience is. Twitter, Instagram, Telegram, local Walmart, whatever.
-* Decide on the frequency. Do not overcommit (as we most certainly did for tip of the day and videos). If you're planning a vlog, why don't you start with a video every two weeks. You can always release out of band. Audience is less forgiving about missed appearances.
+* Decide on your channel(s). Writing, blogging, talking. Could be TikTok videos. Invent a new one.
+* Go where your audience is. Twitter, Instagram, Telegram, local Walmart, whatever.
+* Decide on the frequency. Do not overcommit (as we most certainly did for tip of the day and videos). If you're planning a vlog, why don't you start with a short video every week. You can always release out of band. Audience is less forgiving about missed appearances.
 * Learn some basics about social channels and SEO. Whilst content is most certainly king, there are little does and don'ts you need to follow to promote your creation.
 * If you're blogging try to stay away from syndication. It is very tempting to say `yes` to the requests, especially when they are coming from a community site moderator at Microsoft. If your content is valuable, *they* will get the traffic, not you. Yes, there is `<!-- more -->` trick but it could be seen by some as a clickbait.
-* Be consistent. In timing, in your opinions, in your persona. I would prefer the persona to be a real you but I know that some find it easier to play a role. Find by me, as long as you are consistent.
-* Invest into your undertaking. If it's a blog, get a domain name, iknoweverythingaboutcrm.blogspot.com ain't that exciting. Get SSL certificate, get some decent theme, perhaps spend $5 on fiverr.com and get yourself a logo.
-* Do what you do. Regardless.
+* Be consistent. In timing, in your opinions, in your persona. I would prefer the persona to be a real you but I know that some find it easier to play a role. Find by me, as long as you are consistent, we don't have to be best friends.
+* Invest into your undertaking. If it's a blog, get a domain name, iknoweverythingaboutcrm.blogspot.com ain't that exciting. Get SSL certificate (they are free), get some decent theme, perhaps spend $5 on fiverr.com and get yourself a logo.
+* Do what you do. Regardless. Be yourself. Keep your identity. Be careful about starting something under the company umbrella. Even if you are a one man band and the company is, essentially, you. I want to listen to an individual not Objectified Power Inc.
 
-* Be yourself. Keep your identity. Be careful about starting something under the company umbrella. Even if you are a one man band and the company is, essentially, you. I want to listen to an individual not Objectified Power Inc.
 * Working as a team. It makes the journey easier because you can draw on each other's strengths and you can cover for each other when needed. Ensure that you gel, and have complimentary views or skills. The team of defenders or forwards only is never going to win any games whatever your ball sport of choice is happen to be. Our listeners find the ongoing banter one of the most entertaining aspects of CRM Audio (Usually I berate Joel about the lack of technical skills and, in return, he rubs my face in on customisations, architecture, and large scale implementations. Then Shawn trolls both of us about Field Service. Like cake in a face, it works every time).
 * Use your life skills. Can you draw? Why don't you try illustrating a blog article?
-* Try something new and exciting. If you find discussing the differences in application designs created by left-handed people, I'm sure there will be enough left-handed application designers who would take a create interest in the subject. 
+* Try something new and exciting. If you genuinely interested in the differences in application designs created by left-handed people, I'm sure there will be enough left-handed application designers who would take interest in the subject. 
 * Do not procrastinate. It's never a perfect time. 
 
 ## The new adventure
