@@ -27,10 +27,13 @@ The Enabler is a superhero who does not have any specific skills. Instead, in hi
 
 To paraphrase George Bernard Show's quote[^1]
 
-> He who can, does.
->He who cannot, teaches
+> He who can, does
+>
+> He who cannot, teaches
+>
 > He who cannot teach, manages
->He who cannot manage, enables
+>
+> He who cannot manage, enables
 
 In the world of business applications, The Enabler doesn't necessarily create or implement the solutions. Instead, he empowers others with the knowledge and ideas so that their super skills come to life. 
 
