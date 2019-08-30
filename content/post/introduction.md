@@ -197,7 +197,7 @@ It's not conquering a mountain peak, it's a journey. Let me put it the other way
 
 ### On writing
 
-There are many channels available to express yourself. Podcasts, vlogs, training videos, public speaking, wiki, and many others. The predominant one is, of course, writing. However if you want people to listen and you want to build the audience, you have to deliver. Time after time. Just because you have a great idea and would like to share it with the world does not mean starting a blog. There is a saying coined by a famous Russian writer and satirist Mikhail Zhvanetsky (Михаи́л Жване́цкий)[^2] (translation is mine)
+There are many channels available to express yourself. Podcasts, vlogs, training videos, public speaking, wiki, and many others. The predominant one is, of course, writing. However if you want people to listen and you want to build the audience, you have to deliver. Time after time. Just because you have one or two great ideas and would like to share them with the world does not mean starting a blog. There is a saying coined by a famous Russian writer and satirist Mikhail Zhvanetsky (Михаи́л Жване́цкий)[^2] (translation is mine)
 
 > Writing is like peeing - do it when you can no longer hold it in
 >
@@ -205,20 +205,21 @@ There are many channels available to express yourself. Podcasts, vlogs, training
 
 ### On other things
 
-Some random thoughts that may or may not help you get started
+Some random thoughts that may or may not help you get started.
 
 * Decide on your channels. Go where your audience is. Twitter, Instagram, Telegram, local Walmart, whatever.
 * Decide on the frequency. Do not overcommit (as we most certainly did for tip of the day and videos). If you're planning a vlog, why don't you start with a video every two weeks. You can always release out of band. Audience is less forgiving about missed appearances.
 * Learn some basics about social channels and SEO. Whilst content is most certainly king, there are little does and don'ts you need to follow to promote your creation.
 * If you're blogging try to stay away from syndication. It is very tempting to say `yes` to the requests, especially when they are coming from a community site moderator at Microsoft. If your content is valuable, *they* will get the traffic, not you. Yes, there is `<!-- more -->` trick but it could be seen by some as a clickbait.
-* Be consistent. 
+* Be consistent. In timing, in your opinions, in your persona. I would prefer the persona to be a real you but I know that some find it easier to play a role. Find by me, as long as you are consistent.
 * Invest into your undertaking. If it's a blog, get a domain name, iknoweverythingaboutcrm.blogspot.com ain't that exciting. Get SSL certificate, get some decent theme, perhaps spend $5 on fiverr.com and get yourself a logo.
 * Do what you do. Regardless.
 
-* Be yourself. Keep your identity. Be careful about starting something under a company identity. I want to listen to an individual not Objectified Power Inc.
-* Working as a team. It does get easier because you can draw on each other's strengths and you can cover for each other when needed. But ensure that you gel, and have complimentary views or skills. The team of defenders or forwards only is never going to win any games whatever your ball sport of choice is happen to be. Our listeners find the ongoing banter one of the most entertaining aspects of CRM Audio (Usually I berate Joel for the lack of technical skills and, in return, he rubs my face in on customisations, architecture, and large scale implementations. Then Shawn trolls both of us about Field Service).
+* Be yourself. Keep your identity. Be careful about starting something under the company umbrella. Even if you are a one man band and the company is, essentially, you. I want to listen to an individual not Objectified Power Inc.
+* Working as a team. It makes the journey easier because you can draw on each other's strengths and you can cover for each other when needed. Ensure that you gel, and have complimentary views or skills. The team of defenders or forwards only is never going to win any games whatever your ball sport of choice is happen to be. Our listeners find the ongoing banter one of the most entertaining aspects of CRM Audio (Usually I berate Joel about the lack of technical skills and, in return, he rubs my face in on customisations, architecture, and large scale implementations. Then Shawn trolls both of us about Field Service. Like cake in a face, it works every time).
 * Use your life skills. Can you draw? Why don't you try illustrating a blog article?
 * Try something new and exciting. If you find discussing the differences in application designs created by left-handed people, I'm sure there will be enough left-handed application designers who would take a create interest in the subject. 
+* Do not procrastinate. It's never a perfect time. 
 
 ## The new adventure
 
