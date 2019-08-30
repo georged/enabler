@@ -181,7 +181,7 @@ The one thing that seems to be lost in this cohort effort is the individual iden
 
 Tip of the day and audio are much more personalised and intricate affairs. In the hindsight, we should've taken care of our individual identities better, especially on tip of the day.
 
-We did chat about the importance of individual identities on [CRM MVP Podcast](http://crmmvppodcast.com/episode-55-building-your-personal-brand-like-an-mvp) (I have no idea why we didn't talk about it on our own podcast, probably because Joel didn't offer me a drink). The irony of me blabbing about the identity importance is not lost on me, considering that a lot of my work is done under the name of Tîpp Jäår. But I hope to change some of that with the blog you're reading right now.
+We did chat about the importance of individual identities on [CRM MVP Podcast](http://crmmvppodcast.com/episode-55-building-your-personal-brand-like-an-mvp) (I have no idea why we didn't talk about it on our own podcast, probably because neither Joel nor Shawn offered me a drink). The irony of me blabbing about the identity importance is not lost on me, considering that a lot of my work is done under the name of Tîpp Jäår. But I hope to change some of that with the blog you're reading right now.
 
 ### People who made it happen
 
@@ -189,7 +189,32 @@ We've had people coming and going. We've received a lot of help and encouragemen
 
 But I don't think any of our creations would see the light of the day without these individuals.
 
-
+<table class="people">
+<thead>
+<tr>
+<th><img src="/img/joellindstrom.png" alt="Joel Lindstrom"></th>
+<th><img src="/img/hobbit.png" alt="Shawn Tabor"></th>
+<th><img src="/img/waterskier.png" alt="Jerry Weinstock"></th>
+<th><img src="/img/derikbormann.png" alt="Derik Bormann"></th>
+<th><img src="/img/georgdude.png" alt="George Doubinski"></th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>Joel</strong><br/><a href="https://twitter.com/joellindstrom">@joellindstrom</a></td>
+<td><strong>Shawn</strong><br/><a href="https://twitter.com/crmhobbit">@crmhobbit</a></td>
+<td><strong>Jerry</strong><br/><a href="https://twitter.com/crminnovation">@crminnovation</a></td>
+<td><strong>Derik</strong><br/><a href="https://twitter.com/derik_bormann">@derik_bormann</a></td>
+<td><strong>George</strong><br/><a href="https://twitter.com/georgedude">@georgedude</a></td>
+</tr>
+<tr>
+<td>Edits the podcasts so he can control what others say</td>
+<td>Hobbit. Not a developer</td>
+<td>Tip of the day grandmaster</td>
+<td>The voice inside your head when using CRM</td>
+<td>Delivers spießrutenlaufen</td>
+</tr>
+</tbody>
+</table>
 
 ## Advice
 
@@ -224,12 +249,13 @@ Some random thoughts that may or may not help you get started.
 * If you're blogging try to stay away from syndication. It is very tempting to say `yes` to the requests, especially when they are coming from a community site moderator at Microsoft. If your content is valuable, *they* will get the traffic, not you. Yes, there is `<!-- more -->` trick but it could be seen by some as a clickbait.
 * Be consistent. In timing, in your opinions, in your persona. I would prefer the persona to be a real you but I know that some find it easier to play a role. Find by me, as long as you are consistent, we don't have to be best friends.
 * Invest into your undertaking. If it's a blog, get a domain name, iknoweverythingaboutcrm.blogspot.com ain't that exciting. Get SSL certificate (they are free), get some decent theme, perhaps spend $5 on fiverr.com and get yourself a logo.
-* Do what you do. Regardless. Be yourself. Keep your identity. Be careful about starting something under the company umbrella. Even if you are a one man band and the company is, essentially, you. I want to listen to an individual not Objectified Power Inc.
+* Do what you love. Do what you do. Regardless. Be yourself. Keep your identity. Be careful about starting something under a company umbrella. Even if you are a one man band and the company is, essentially, you. I want to listen to an individual not Objectified Power Inc.
 
 * Working as a team. It makes the journey easier because you can draw on each other's strengths and you can cover for each other when needed. Ensure that you gel, and have complimentary views or skills. The team of defenders or forwards only is never going to win any games whatever your ball sport of choice is happen to be. Our listeners find the ongoing banter one of the most entertaining aspects of CRM Audio (Usually I berate Joel about the lack of technical skills and, in return, he rubs my face in on customisations, architecture, and large scale implementations. Then Shawn trolls both of us about Field Service. Like cake in a face, it works every time).
 * Use your life skills. Can you draw? Why don't you try illustrating a blog article?
 * Try something new and exciting. If you genuinely interested in the differences in application designs created by left-handed people, I'm sure there will be enough left-handed application designers who would take interest in the subject. 
 * Do not procrastinate. It's never a perfect time. 
+* Have fun.
 
 ## The new adventure
 
