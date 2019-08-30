@@ -41,6 +41,7 @@ What did we build over the last six years?
 </ul><div style="clear:both;">&nbsp;</div>
 ###  CRM Audio
 <img src="/img/crm-audio-channels.png#floatleft" width="128px">
+
 <ul style="display:block;float:left;width:75%">
 <li>Total of 11 shows and one master feed that includes all shows</li>
 <li>Each episode has 800-1,000 downloads within 30 days</li>
@@ -59,7 +60,7 @@ Our YouTube channel, https://youtube.com/crmtipoftheday, is a special case.
 
 Which makes the next screenshot particularly upsetting.
 
-![1567071973596](/img/youtubestats.png)
+![CRM tip of the Day YouTube stats](/img/youtubestats.png)
 
 It's a team success but it's not always been this way.
 
@@ -222,15 +223,15 @@ But I don't think any of our creations would see the light of the day without th
 
 Microsoft MVP program is great. For a lot of MVPs, myself included, that became our second family, the professional one. The program has been getting a lot of publicity and people want to "join in" or, rather "how do I become an MVP". There are blog posts and videos on the subject like "top 13 tricks to becoming a Microsoft MVP", "the bulletproof path to MVPdom", "milking MVP status of your employees", and many others. 
 
-I'm not a big fan of those, to be honest. If you are a professional working with Microsoft products, you should be well aware of the MVP program and what does it mean. While the program fully deserves the attention, the DYI instructions most certainly don't. 
+I'm not a big fan of those, to be honest. If you are a professional working with Microsoft products, you should be well aware of the MVP program and what does it mean. While the program fully deserves the attention, the DIY instructions most certainly don't. 
 
-> MVP status should be an *award* not an *achievement*. It's a *milestone* not a *finish line*.
+> MVP status should be viewed as an *award* not an *achievement*. It's a *milestone* not a *finish line*.
 
-It's not conquering a mountain peak, it's a journey. Let me put it the other way. Would you continue doing what you're doing if MVP program didn't exist? If you are already an MVP, what if your MVP status was taken away? If the answer is `no` then perhaps you are or trying to get in the program for all the wrong reasons.
+It's not conquering a mountain peak, it's a journey. Let me put it another way. Would you continue doing what you're doing if MVP program didn't exist? If your MVP status was taken away when you already were an MVP? If the answer is `no` then perhaps you are in the program or trying get into the program for all the wrong reasons.
 
 ### On writing
 
-There are many channels available to express yourself. Podcasts, vlogs, training videos, public speaking, wiki, and many others. The predominant one is, of course, writing. However if you want people to listen and you want to build the audience, you have to deliver. Time after time. Just because you have one or two great ideas and would like to share them with the world does not mean starting a blog. There is a saying coined by a famous Russian writer and satirist Mikhail Zhvanetsky (Михаи́л Жване́цкий)[^2]
+There are many channels available to express yourself. Podcasts, vlogs, training videos, public speaking, wiki, and many others. The predominant one is, of course, writing. However if you want people to listen and you want to build the audience, you have to deliver. Time after time. Just because you have one or two great ideas and would like to share them with the world does not mean starting a blog. There is a saying coined by the famous Russian writer and satirist Mikhail Zhvanetsky (Михаи́л Жване́цкий)[^2]
 
 > Writing is like peeing - do it when you can no longer hold it in
 >
@@ -253,7 +254,7 @@ Some random thoughts that may or may not help you get started.
 
 * Working as a team. It makes the journey easier because you can draw on each other's strengths and you can cover for each other when needed. Ensure that you gel, and have complimentary views or skills. The team of defenders or forwards only is never going to win any games whatever your ball sport of choice is happen to be. Our listeners find the ongoing banter one of the most entertaining aspects of CRM Audio (Usually I berate Joel about the lack of technical skills and, in return, he rubs my face in on customisations, architecture, and large scale implementations. Then Shawn trolls both of us about Field Service. Like cake in a face, it works every time).
 * Use your life skills. Can you draw? Why don't you try illustrating a blog article?
-* Try something new and exciting. If you genuinely interested in the differences in application designs created by left-handed people, I'm sure there will be enough left-handed application designers who would take interest in the subject. 
+* Try something new and exciting. If you are genuinely interested in the differences in application designs created by left-handed people, I'm sure there will be enough left-handed application designers who would take interest in the subject. 
 * Do not procrastinate. It's never a perfect time. 
 * Have fun.
 

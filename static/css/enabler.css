@@ -33,3 +33,13 @@ table.people td, table.people th {
   vertical-align: top !important;
 }
 
+.header .logo-wrapper {
+  background-image: url(/img/enabler35x64.png);
+  background-repeat: no-repeat;
+  padding-left: 42px;
+  background-position-y: center;
+}
+.header .logo-wrapper .logo {
+  font-weight: 600;
+  font-family: Athelas,STHeiti,Microsoft Yahei,serif;
+}
