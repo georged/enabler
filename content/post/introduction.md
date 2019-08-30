@@ -53,11 +53,11 @@ Our YouTube channel, https://youtube.com/crmtipoftheday, is a special case.
 
 * 5K subscribers
 * Average view time is just over 4 min. For the videos that are under 10 min long, that's **a lot**.
-* 2M minutes watched. To put it in perspective, it's equivalent to over 33K hours. Minimum US wage is $7.25 so it'd be fair to assume that the viewers are paid at least $30/hour. Which translates to $1M.
+* 2M minutes watched. To put it in perspective, it's equivalent to over 33K hours. Minimum US wage is $7.25 so it'd be fair to assume that our viewers are paid on average $30 or more an hour. Which translates to $1M.
 
-> Our viewers spent over $1,000,000 watching Derik Bormann videos. 
+> Our viewers spent over $1,000,000 watching Derik Bormann's videos. 
 
-Which makes this screenshot particularly upsetting.
+Which makes the next screenshot particularly upsetting.
 
 ![1567071973596](/img/youtubestats.png)
 
@@ -65,11 +65,11 @@ It's a team success but it's not always been this way.
 
 ## One to one
 
-For the first time I dipped my toes into CRM pond around CRM 3.0. I liked what I saw but there were gaps. In the product itself, in the documentation, and the best practices. Cue [CRM 4.0](https://en.wikipedia.org/wiki/Microsoft_Dynamics_CRM#Microsoft_Dynamics_CRM_4.0.0 "CRM 4.0 History on Wikipedia"), released in December 2007. It introduced multi-tenancy (making hosting a reality), added multi-lingual and multi-currency capabilities, introduced plugin model alongside with the Dynamic Entity concept, to name but a few. By that time, I was a convert. Adoption was growing, and community started to form around it. 
+For the first time I dipped my toes into the CRM pond around CRM 3.0. I liked what I saw but there were gaps. In the product itself, in the documentation, and the best practices. Cue [CRM 4.0](https://en.wikipedia.org/wiki/Microsoft_Dynamics_CRM#Microsoft_Dynamics_CRM_4.0.0 "CRM 4.0 History on Wikipedia"), released in December 2007. It introduced multi-tenancy (making hosting a reality), added multi-lingual and multi-currency capabilities, introduced plugin model alongside with the Dynamic Entity concept, to name but a few. By that time, I was a convert. Adoption was growing, and community started to form around it. 
 
 How did you participate in the community activities back in 2007? Newsgroups. Download new posts, write the replies before anyone else does, upload back. Inspired by the legendary Michael Höhne from Stunnware (filtered lookup for CRM 4, anyone?), I was all over it and loved it.
 
-My MVP award email landed directly into spam folder (as they continue to this day) in July 2008. I was not expecting it, I was busy watching US Open. In fact, I didn't know much about MVP program at all, I was just doing what I enjoyed, mostly late at night when the family was asleep. Those were *lonely* times, but the feeling of *nongenderspecifichood* was growing with every single reply marked as an answer. 
+My MVP award email landed directly into the spam folder (as they continue to this day) in July 2008. I was not expecting it, I was busy watching US Open. In fact, I didn't know much about MVP program at all, I was just doing what I enjoyed, mostly late at night when the family was asleep. Those were *lonely* times, but the feeling of *nongenderspecifichood* was growing with every single reply marked as an answer. 
 
 {{% notice tip Lesson learned %}}
 Doing it solo is fine, it really depends on a personality. Consistency, perseverance, and active engagement are the keys.{{% /notice %}}
@@ -117,7 +117,9 @@ I have no idea how did we manage to survive first few months but once we ticked 
 
 [Shawn Tabor](https://twitter.com/crmhobbit) briefly ventured into the tipping but soon figured out that he'd rather talk than write. Joel and I decided that other podcasts were boring and, since we talk a lot anyway, hello, CRM Audio.
 
-[Derik Bormann](https://twitter.com/derik_bormann) was happy to move the mouse while talking and https://youtube.com/crmtipoftheday was born. If you take a look at the YouTube stats above you'd notice that we didn't have much traction for two years. That's 2 years of making the videos **weekly**. Did I mention that patience and perseverance are the keys?
+[Derik Bormann](https://twitter.com/derik_bormann) was happy to move the mouse while talking and https://youtube.com/crmtipoftheday was born. 
+
+Take a moment and look again at the YouTube stats above. You'd notice that we didn't have much traction for **two years**. That's 2 years of making the videos **weekly**. Did I mention that consistency, patience and perseverance are the keys?
 
 And the rest is history. 
 
@@ -130,22 +132,23 @@ Our audience is very familiar with this assumption, I wrote about it as a develo
 This is what happens when we receive a tip:
 
 * Read and understand. People can be very cryptic.
-* Decide if it's a tip at all. It won't be accepted if it's just a rehash of documentation or obvious statement. 
+* Decide if it's a tip at all. It won't be accepted if it's just a rehash of documentation or an obvious statement. 
 * If the submission has a pointer to an article elsewhere we need to go and read what is it all about. As a rule of thumb we do not cross-post tips already published elsewhere but there are some rare exceptions. If the topic is really good but too complicated then we might let the author do the explanation on their blog/media and post readers digest as a tip. But readers digests do not write themselves.
-* Validate the legitimacy. Often that requires asking the others who know this particular subject.
-* If it's an intricate tip then we must be able to reproduce it. That actually means trying to do step by step what author is suggesting. Sometimes it requires creating a baseline by customising your instance (like adding suggested fields, etc)
+* Apply some google-fu to ensure it has not been done before and is not a common knowledge.
+* Validate the legitimacy. Power Platform and Dynamics 365 are *very* broad subjects and even Joel does not know everything. Validation often requires asking the others who know this particular domain.
+* If it's an intricate tip then we must be able to reproduce it. That actually means trying to do step by step what author is suggesting. Often it requires creating a baseline by customising your instance (like adding suggested fields, etc)
 * The other purpose of the "replay" is to capture screenshots. We do occasionally get screenshots from the author but they need to be extracted, resized, cleaned up, uploaded.
 * Some tipsters are better writers than others. More often than not the tip needs some scrubbing.
 * Clean up, format, check spelling, add screenshots
 * Come up with a good title, tags, and categories
 * Locate tipster twitter or linkedin profile, add a reference
-* Think of a good cover image, go find a suitable image in public domain (our preferences are https://unsplash.com and https://pexels.com). Download the image, crop and resize, upload, think of a good title, insert attribution into the tip.
+* Think of a good cover image, find a suitable image in public domain (our preferences are https://unsplash.com and https://pexels.com). Download the image, crop and resize, upload, think of a good title, insert attribution into the tip.
 * Add tip to the queue, schedule it.
 * That was easy, wasn't it?
 
-Don't get me wrong. As tedious as publishing might be, coming up with the idea in the first place is the hardest part, the rest is straightforward. 
+Don't get me wrong. As tedious as publishing might be, coming up with the idea in the first place is the hardest part, the rest is straightforward. But it takes time. Every day. Remember that if you decide to start your own grind.
 
-As you can tell I look after the tips. That's the hardest. Joel takes care of CRM Audio. But looking after and publishing 11 podcasts is the easiest job in the world. How difficult can it be? Just talk, record, then publish. Right?
+As you can tell, I look after the tips. That's the hardest. Joel takes care of CRM Audio. But looking after and publishing 11 podcasts is the easiest job in the world. How difficult can it be? Just talk, record, then publish. Right?
 
 ### Keep going?
 
@@ -178,9 +181,11 @@ The one thing that seems to be lost in this cohort effort is the individual iden
 
 Tip of the day and audio are much more personalised and intricate affairs. In the hindsight, we should've taken care of our individual identities better, especially on tip of the day.
 
-We did chat about the importance of individual identities on [CRM MVP Podcast](http://crmmvppodcast.com/episode-55-building-your-personal-brand-like-an-mvp). That's ironic considering that a lot of my work is done under the name of Tîpp Jäår. But I hope to change some of that with the blog you're reading right now.
+We did chat about the importance of individual identities on [CRM MVP Podcast](http://crmmvppodcast.com/episode-55-building-your-personal-brand-like-an-mvp) (I have no idea why we didn't talk about it on our own podcast, probably because Joel didn't offer me a drink). The irony of me blabbing about the identity importance is not lost on me, considering that a lot of my work is done under the name of Tîpp Jäår. But I hope to change some of that with the blog you're reading right now.
 
 ## Advice
+
+### On MVP program
 
 Microsoft MVP program is great. For a lot of MVPs, myself included, that became our second family, the professional one. The program has been getting a lot of publicity and people want to "join in" or, rather "how do I become an MVP". There are blog posts and videos on the subject like "top 13 tricks to becoming a Microsoft MVP", "the bulletproof path to MVPdom", "milking MVP status of your employees", and many others. 
 
@@ -188,13 +193,17 @@ I'm not a big fan of those, to be honest. If you are a professional working with
 
 > MVP status should be an *award* not an *achievement*. It's a *milestone* not a *finish line*.
 
-It's not conquering a mountain peak, it's a journey. Let me put it the other way. Would you continue doing what you're doing if MVP program didn't exist or, if you are already an MVP when your MVP status is taken away? If the answer is `no` then perhaps you are in the program for all the wrong reasons.
+It's not conquering a mountain peak, it's a journey. Let me put it the other way. Would you continue doing what you're doing if MVP program didn't exist? If you are already an MVP, what if your MVP status was taken away? If the answer is `no` then perhaps you are in the program for all the wrong reasons.
+
+### On writing
 
 There are many channels available to express yourself. Podcasts, vlogs, training videos, public speaking, wiki, and many others. The predominant one is, of course, writing. However if you want people to listen and you want to build the audience, you have to deliver. Time after time. Just because you have a great idea and would like to share it with the world does not mean starting a blog. There is a saying coined by a famous Russian writer and satirist Mikhail Zhvanetsky (Михаи́л Жване́цкий)[^2] (translation is mine)
 
 > Writing is like peeing - do it when you can no longer hold it in
 >
 > (ПисАть как и пИсать нужно тогда, когда терпеть уже невозможно!)
+
+### On other things
 
 Some random thoughts that may or may not help you get started
 
@@ -206,14 +215,20 @@ Some random thoughts that may or may not help you get started
 * Invest into your undertaking. If it's a blog, get a domain name, iknoweverythingaboutcrm.blogspot.com ain't that exciting. Get SSL certificate, get some decent theme, perhaps spend $5 on fiverr.com and get yourself a logo.
 * Do what you do. Regardless.
 
-* Be yourself. Keep your identity. 
-* Working as a team. Ensure that you gel, and have complimentary points of view or skills. The team of defenders or forwards only never going to win any games whatever your ball sport of choice is happen to be. One of the most entertaining 
+* Be yourself. Keep your identity. Be careful about starting something under a company identity. I want to listen to an individual not Objectified Power Inc.
+* Working as a team. It does get easier because you can draw on each other's strengths and you can cover for each other when needed. But ensure that you gel, and have complimentary views or skills. The team of defenders or forwards only is never going to win any games whatever your ball sport of choice is happen to be. Our listeners find the ongoing banter one of the most entertaining aspects of CRM Audio (Usually I berate Joel for the lack of technical skills and, in return, he rubs my face in on customisations, architecture, and large scale implementations. Then Shawn trolls both of us about Field Service).
 * Use your life skills. Can you draw? Why don't you try illustrating a blog article?
-* Try something new and exciting. 
+* Try something new and exciting. If you find discussing the differences in application designs created by left-handed people, I'm sure there will be enough left-handed application designers who would take a create interest in the subject. 
 
 ## The new adventure
 
-As for me, this blog is a new start beginning
+CRM Tip of the Day and CRM Audio will continue. Perhaps with less rigour but by now it's like brushing your teeth - the results are very shiny if you do it on a regular basis.
+
+This site is a new start for me. I'm not a stranger to the personal blogging but I hope to create a new style where fiction, technical writing, videos, and other media come together. I do not know what it will look like in the end but we'll see. I hope you like my new [The Enabler](/about) persona. And you can tell by the domain name, it's very personal.
+
+*George "The Enabler" Doubinski*
+
+## References
 
 [^1]: [Neil Benson](https://twitter.com/customery), [Joel Lindstrom](https://twitter.com/joellindstrom), [Matt F Whittemann](https://twitter.com/mattnc), [Julie Yack](https://twitter.com/coloradojules) 
 [^2]: https://en.wikipedia.org/wiki/Mikhail_Zhvanetsky 
