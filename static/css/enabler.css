@@ -43,3 +43,15 @@ table.people td, table.people th {
   font-weight: 600;
   font-family: Athelas,STHeiti,Microsoft Yahei,serif;
 }
+
+.mobile-navbar .mobile-header-logo {
+  background-image: url(/img/enabler35x64.png);
+  background-repeat: no-repeat;
+  padding-left: 42px;
+  background-position-y: center;
+  background-size: 24px;
+}
+.mobile-navbar .mobile-header-logo .logo {
+  font-weight: 600;
+  font-family: Athelas,STHeiti,Microsoft Yahei,serif;
+}

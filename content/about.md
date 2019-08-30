@@ -15,7 +15,11 @@ If you cannot find me online committing code to github, poking https://crmtipoft
 
 ## The Enabler
 
-![The Enabler](/img/enabler230x425.png#floatright)The Enabler was born during the [anniversary episode of CRM Audio](https://crm.audio/crm-audio-100-the-enabler/). We were talking about superheros and who would we be. (What else is there to discuss with [Shawn Tabor](https://twitter.com/crmhobbit) - I know very little about Dynamics 365 Field Service). 
+<img srcset="/img/enabler230x425.png 230w, /img/enabler128x237.png 128w" 
+sizes="(max-width: 420px) 128px, 230px"
+src="/img/enabler230x425.png" alt="The Enabler" style="float:right;margin-left: 7px;margin-top: 0px;">
+
+The Enabler was born during the [anniversary episode of CRM Audio](https://crm.audio/crm-audio-100-the-enabler/). We were talking about superheros and who would we be. (What else is there to discuss with [Shawn Tabor](https://twitter.com/crmhobbit) - I know very little about Dynamics 365 Field Service). 
 
 The closest "real" superhero would be [Domino](https://en.wikipedia.org/wiki/Domino_(comics)) with her subconscious [telekinetic](https://en.wikipedia.org/wiki/Telekinesis) probability manipulation. In other words, her skill is luck, as graphically demonstrated in [Deadpool 2](https://en.wikipedia.org/wiki/Deadpool_2).
 
