@@ -9,7 +9,7 @@ comment: false
 mathjax: false
 ---
 
-Hi, I'm George "The Enabler" Doubinski. I am Microsoft Business Applications MVP. Architect. Coder. Author. Blogger. Speaker. Trainer. Specialist in all things difficult for Microsoft Power platform and Dynamics 365.
+Hi, I'm George Doubinski. Microsoft Business Applications MVP. Architect. Coder. Author. Blogger. Speaker. Trainer. Specialist in all things difficult for Microsoft Power platform and Dynamics 365.
 
 If you cannot find me online committing code to github, poking https://crmtipoftheday.com, or talking on https://crm.audio, it must be a rare occasion when I sleep, spend time with the family or travel from A to B.  
 
@@ -21,21 +21,20 @@ src="/img/enabler230x425.png" alt="The Enabler" style="float:right;margin-left: 
 
 The Enabler was born during the [anniversary episode of CRM Audio](https://crm.audio/crm-audio-100-the-enabler/). We were talking about superheros and who would we be. (What else is there to discuss with [Shawn Tabor](https://twitter.com/crmhobbit) - I know very little about Dynamics 365 Field Service). 
 
-The closest "real" superhero would be [Domino](https://en.wikipedia.org/wiki/Domino_(comics)) with her subconscious [telekinetic](https://en.wikipedia.org/wiki/Telekinesis) probability manipulation. In other words, her skill is luck, as graphically demonstrated in [Deadpool 2](https://en.wikipedia.org/wiki/Deadpool_2).
+The closest "real" superhero would be [Domino](https://en.wikipedia.org/wiki/Domino_(comics)) with her subconscious [telekinetic](https://en.wikipedia.org/wiki/Telekinesis) probability manipulation. In other words, her skill is luck, as graphically demonstrated in [Deadpool&nbsp;2](https://en.wikipedia.org/wiki/Deadpool_2).
 
-The Enabler is a superhero except he does not have any skills. Instead, in his presence, other people who think of themselves as ordinary, acquire super powers and become capable of achieving the greater things.
+The Enabler is a superhero who does not have any specific skills. Instead, in his presence, other people who think of themselves as ordinary, acquire super powers and become capable of achieving the greater things.
 
 To paraphrase George Bernard Show's quote[^1]
 
-> He who can, does. 
->
-> He who cannot, teaches
->
+> He who can, does.
+>He who cannot, teaches
 > He who cannot teach, manages
->
-> He who cannot manage, enables
+>He who cannot manage, enables
 
-In the world of business applications, I don't necessarily create or implement the solutions. Instead, I empower others with the knowledge and ideas so that their super skills come to life. And I don't believe for a second that anyone who chooses the [Power Platform](https://powerplatform.microsoft.com/), cannot be a superhero.
+In the world of business applications, The Enabler doesn't necessarily create or implement the solutions. Instead, he empowers others with the knowledge and ideas so that their super skills come to life. 
+
+And I don't believe for a second that anyone who chooses the [Power Platform](https://powerplatform.microsoft.com/), cannot be a superhero.
 
 ## This site
 
