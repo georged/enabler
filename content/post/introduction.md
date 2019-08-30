@@ -190,30 +190,30 @@ We've had people coming and going. We've received a lot of help and encouragemen
 But I don't think any of our creations would see the light of the day without these individuals.
 
 <table class="people">
-<thead>
+<tbody>
 <tr>
-<th><img src="/img/joellindstrom.png" alt="Joel Lindstrom"></th>
-<th><img src="/img/hobbit.png" alt="Shawn Tabor"></th>
-<th><img src="/img/waterskier.png" alt="Jerry Weinstock"></th>
-<th><img src="/img/derikbormann.png" alt="Derik Bormann"></th>
-<th><img src="/img/georgdude.png" alt="George Doubinski"></th>
+  <td><img src="/img/joellindstrom.png" alt="Joel Lindstrom"></td>
+<td><strong>Joel</strong><br/><a href="https://twitter.com/joellindstrom">@joellindstrom</a><br/>
+  Edits the podcasts so he can control what others say
+  </td>
+  </tr>
+  <tr>
+    <td><img src="/img/hobbit.png" alt="Shawn Tabor"></td>
+<td><strong>Shawn</strong><br/><a href="https://twitter.com/crmhobbit">@crmhobbit</a><br/>Hobbit. Not a developer</td>
+  </tr>
+  <tr>
+    <td><img src="/img/waterskier.png" alt="Jerry Weinstock"></td>
+<td><strong>Jerry</strong><br/><a href="https://twitter.com/crminnovation">@crminnovation</a><br/>Tip of the day grandmaster</td>
+    </tr>
+  <tr>
+    <td><img src="/img/derikbormann.png" alt="Derik Bormann"></td>
+<td><strong>Derik</strong><br/><a href="https://twitter.com/derik_bormann">@derik_bormann</a><br/>The voice inside your head when using CRM</td>
+    </tr>
+  <tr>
+    <td><img src="/img/georgdude.png" alt="George Doubinski"></td>
+    <td><strong>George</strong><br/><a href="https://twitter.com/georgedude">@georgedude</a><br>Delivers <a href="https://en.wikipedia.org/wiki/Running_the_gauntlet" title="Running the gauntlet">spießrutenlaufen</a></td>
 </tr>
-</thead><tbody>
-<tr>
-<td><strong>Joel</strong><br/><a href="https://twitter.com/joellindstrom">@joellindstrom</a></td>
-<td><strong>Shawn</strong><br/><a href="https://twitter.com/crmhobbit">@crmhobbit</a></td>
-<td><strong>Jerry</strong><br/><a href="https://twitter.com/crminnovation">@crminnovation</a></td>
-<td><strong>Derik</strong><br/><a href="https://twitter.com/derik_bormann">@derik_bormann</a></td>
-<td><strong>George</strong><br/><a href="https://twitter.com/georgedude">@georgedude</a></td>
-</tr>
-<tr>
-<td>Edits the podcasts so he can control what others say</td>
-<td>Hobbit. Not a developer</td>
-<td>Tip of the day grandmaster</td>
-<td>The voice inside your head when using CRM</td>
-<td>Delivers spießrutenlaufen</td>
-</tr>
-</tbody>
+  </tbody>
 </table>
 
 ## Advice
