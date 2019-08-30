@@ -267,5 +267,5 @@ This site is a new start for me. I'm not a stranger to the personal blogging but
 
 ## References
 
-[^1]: [Neil Benson](https://twitter.com/customery), [Joel Lindstrom](https://twitter.com/joellindstrom), [Matt F Whittemann](https://twitter.com/mattnc), [Julie Yack](https://twitter.com/coloradojules) 
+[^1]: [Neil Benson](https://twitter.com/customery), [Joel Lindstrom](https://twitter.com/joellindstrom), [Matt F Wittemann](https://twitter.com/mattnc), [Julie Yack](https://twitter.com/coloradojules) 
 [^2]: https://en.wikipedia.org/wiki/Mikhail_Zhvanetsky 
