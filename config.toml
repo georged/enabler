@@ -11,7 +11,7 @@ theme = "jane"
 hasCJKLanguage = false     # has chinese/japanese/korean ? 
 paginate = 10              # Number of articles displayed on the homepage 
 rssLimit = 20             # Limit Entry Count to Rss file
-disqusShortname = "georged"      # disqus_shortname
+disqusShortname = ""      # disqus_shortname
 googleAnalytics = "UA-37191902-3"      # UA-XXXXXXXX-X
 copyright = "George Doubinski"            # default: author.name
 
@@ -93,3 +93,8 @@ defaultContentLanguage = "en"           # Default language to use
     c-facebook = "https://facebook.com/george.doubinski/"
     d-linkedin = "https://www.linkedin.com/in/georgedoubinski/"
     e-github = "https://github.com/georged/"
+
+[params.utteranc]         # utteranc is a comment system based on GitHub issues. see https://utteranc.es
+    enable = true
+    repo = "georged/theenabler"    # The repo to store comments
+    issueTerm = "pathname"
