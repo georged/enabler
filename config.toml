@@ -98,3 +98,4 @@ defaultContentLanguage = "en"           # Default language to use
     enable = true
     repo = "georged/theenabler"    # The repo to store comments
     issueTerm = "pathname"
+    label="Comment"
